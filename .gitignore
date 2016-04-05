@@ -1,0 +1,8 @@
+*.o
+*.wo
+*.dll
+*.so
+*.zip
+*.elf
+bin/
+*.ldi
